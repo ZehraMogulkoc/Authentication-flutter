@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111536168184",
+    "project_id": "lab9-def1f",
+    "storage_bucket": "lab9-def1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111536168184:android:bc9531090fd7c174e66f0d",
+        "android_client_info": {
+          "package_name": "com.ZehraMglkc.lab8_authen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111536168184-3r30cvik6mebtrqesirogocod4hogm4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jQiA1tbfEMdXyJO0hJAtAIBlHLvbcLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111536168184-3r30cvik6mebtrqesirogocod4hogm4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
